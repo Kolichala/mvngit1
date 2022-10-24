@@ -11,5 +11,3 @@ test file 1 created
 
 line added online on github.com
 
-checking for merge conflicts. 
-
