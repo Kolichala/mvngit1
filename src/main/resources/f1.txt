@@ -3,3 +3,13 @@ test file 1 created
 line 2 added for hotfix v1
 
 additional 2 files added to clear issues - placebo :)
+
+data checking and clearing merge done here. below lines were shown in conflict. 
+
+test file 1 created 
+
+
+line added online on github.com
+
+checking for merge conflicts. 
+
